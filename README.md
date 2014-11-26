@@ -24,3 +24,11 @@ A Runa customer, AwesomeShoes.com, needs a new report. They've given us their se
 
 ## Outputs
 Look at this file - [expected api response](https://github.com/StaplesLabs/code-puzzle/blob/master/expected-api-responses.json)
+
+## Solution Submission
+Fork the project, and send an email to devs@stapleslabs.com once you're done.<br />
+There are no points given for speed, so please take as much time as you desire,<br />
+so that you can submit your best work.<br />
+Please include instructions for how to run your application and any tests.
+
+Have fun! :)
